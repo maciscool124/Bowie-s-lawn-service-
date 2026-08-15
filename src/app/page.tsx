@@ -585,8 +585,6 @@ export default function Home() {
                         <option value="Bloomington">Bloomington</option>
                         <option value="Edina">Edina</option>
                         <option value="Eagan">Eagan</option>
-                        <option value="Minnetonka">Minnetonka</option>
-                        <option value="Plymouth">Plymouth</option>
                         <option value="Other">Other</option>
                       </select>
                     </div>
@@ -663,8 +661,6 @@ export default function Home() {
                       <li>✓ Bloomington</li>
                       <li>✓ Edina</li>
                       <li>✓ Eagan</li>
-                      <li>✓ Minnetonka</li>
-                      <li>✓ Plymouth</li>
                     </ul>
                   </div>
 
